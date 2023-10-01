@@ -70,7 +70,7 @@ main .personagem .imagem {
 }
 .botoes .botao {
     border: none; 
-    background: none; 
+    background: #000000; 
     cursor: pointer; /* Faz o elemento ter o aspecto clicavel Cursor do mouse */
     border-radius: 50%; /* Deixa bordas arredondadas */
 }
